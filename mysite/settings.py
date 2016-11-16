@@ -25,7 +25,7 @@ SECRET_KEY = 'fu%hj^t6dytuwk^5xv)it#p*oplq-lkt6k0c5nmrh_jda+(cj#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['martonfalvim.pythonanywhere.com']
+ALLOWED_HOSTS = ['martonfalvim.pythonanywhere.com',  '127.0.0.1' ]
 
 
 # Application definition
